@@ -8,4 +8,4 @@ This is my site
 THIS IS WONDERFUL!!!!
 
 
-(c)Yarik64
+(c)yarik64
